@@ -4,7 +4,8 @@ project:
     - "*.qmd"
     - "!publications/_template/"
     - "!people/_template/"
-
+    - "!news/"
+    - "!code/"
 
 website:
   title: "Searcy Lab"
