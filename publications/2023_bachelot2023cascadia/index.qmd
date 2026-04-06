@@ -1,0 +1,15 @@
+---
+title: 'Cascadia Daily GNSS Time Series Denoising: Graph Neural Network and Stack Filtering'
+date: '2023-01-01'
+author: [Loı̈c Bachelot, Amanda M Thomas, Diego Melgar, Jake Searcy, Yu-Sheng Sun]
+publication: Seismica, **4** (2023).
+categories: [environment]
+url_source: 'https://seismica.library.mcgill.ca/article/view/1419'
+url_preprint: ''
+journ: Seismica
+issue: 4
+page: ''
+year: 2023
+image: ''
+pub_number: 14
+---

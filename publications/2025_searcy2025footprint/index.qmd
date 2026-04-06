@@ -1,0 +1,15 @@
+---
+title: A Footprint-Aware, High-Resolution Approach for Carbon Flux Prediction Across Diverse Ecosystems
+date: '2025-01-01'
+author: [Jake Searcy, Anish Dulal, Scott Bridgham, Ashley Cordes, Lillian Aoki, Brendan Bohannan, Qing Zhu, Lucas CR Silva]
+publication: arXiv preprint arXiv:2512.01917 (2025).
+categories: [environment]
+url_source: ''
+url_preprint: 'https://arxiv.org/abs/2512.01917'
+journ: arXiv preprint arXiv:2512.01917
+issue: null
+page: ''
+year: 2025
+image: ''
+pub_number: 17
+---

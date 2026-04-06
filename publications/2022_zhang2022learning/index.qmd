@@ -1,0 +1,15 @@
+---
+title: 'Learning source, path and site effects: CNN-based on-site intensity prediction for earthquake early warning'
+date: '2022-01-01'
+author: [Hongcai Zhang, Diego Melgar, Valerie Sahakian, Jake Searcy, Jiun-Ting Lin]
+publication: Geophysical Journal International, **3**, _2186-2204_ (2022).
+categories: [environment]
+url_source: 'https://academic.oup.com/gji/article/231/3/2186/6671555'
+url_preprint: ''
+journ: Geophysical Journal International
+issue: 3
+page: "2186-2204"
+year: 2022
+image: ''
+pub_number: 5
+---

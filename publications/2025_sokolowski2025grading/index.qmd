@@ -1,0 +1,15 @@
+---
+title: 'Grading Runners: A Pilot Study to Reverse Engineer Patterns to Understand the Sizing of a Population'
+date: '2025-01-01'
+author: [Susan L Sokolowski, Jake Searcy, Anish Dulal, Chris Stone, KJ Fightmaster]
+publication: International Textile and Apparel Association Annual Conference Proceedings, **1** (2025).
+categories: [health]
+url_source: 'https://www.iastatedigitalpress.com/itaa/article/id/21754/'
+url_preprint: ''
+journ: International Textile and Apparel Association Annual Conference Proceedings
+issue: 1
+page: ''
+year: 2025
+image: ''
+pub_number: 18
+---

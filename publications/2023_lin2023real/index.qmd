@@ -1,0 +1,15 @@
+---
+title: Real-time fault tracking and ground motion prediction for large earthquakes with HR-GNSS and deep learning
+date: '2023-01-01'
+author: [Jiun-Ting Lin, Diego Melgar, Valerie J Sahakian, Amanda M Thomas, Jake Searcy]
+publication: 'Journal of Geophysical Research: Solid Earth, **12**, _e2023JB027255_ (2023).'
+categories: [environment]
+url_source: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB027255'
+url_preprint: ''
+journ: 'Journal of Geophysical Research: Solid Earth'
+issue: 12
+page: "e2023JB027255"
+year: 2023
+image: ''
+pub_number: 12
+---

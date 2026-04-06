@@ -1,0 +1,15 @@
+---
+title: Reaching Latinx communities with algorithmic optimization for SARS-CoV-2 testing locations
+date: '2023-01-01'
+author: [Jake Searcy, Camille C Cioffi, Hannah F Tavalire, Elizabeth L Budd, William A Cresko, David S DeGarmo, Leslie D Leve]
+publication: Prevention Science, **6**, _1249-1260_ (2023).
+categories: [health,justice]
+url_source: 'https://link.springer.com/article/10.1007/s11121-022-01478-x'
+url_preprint: ''
+journ: Prevention Science
+issue: 6
+page: "1249-1260"
+year: 2023
+image: 'feature.jpg'
+pub_number: 8
+---

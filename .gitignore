@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+
+/.luarc.json
+.DS_Store
+
+**/*.quarto_ipynb
+*~
+_site/
+people/*/index.html
+people/*/index-listing.json
+people/*/*.tmp.png

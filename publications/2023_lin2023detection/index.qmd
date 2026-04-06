@@ -1,0 +1,15 @@
+---
+title: Detection of hidden low-frequency earthquakes in southern vancouver island with deep learning
+date: '2023-01-01'
+author: [Jiun-Ting Lin, Amanda Thomas, Loı̈c Bachelot, Douglas Toomey, Jake Searcy, Diego Melgar]
+publication: EarthArXiv (2023).
+categories: [environment]
+url_source: ''
+url_preprint: 'https://eartharxiv.org/repository/view/6118/'
+journ: ''
+issue: null
+page: ''
+year: 2023
+image: ''
+pub_number: 13
+---

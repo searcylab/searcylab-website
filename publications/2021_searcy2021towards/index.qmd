@@ -1,0 +1,15 @@
+---
+title: Towards automatic sizing for PPE with a point cloud based variational autoencoder
+date: '2021-01-01'
+author: [Jake Searcy, Susan L Sokolowski]
+publication: arXiv preprint arXiv:2105.10067 (2021).
+categories: [health]
+url_source: ''
+url_preprint: 'https://arxiv.org/abs/2105.10067'
+journ: arXiv preprint arXiv:2105.10067
+issue: null
+page: ''
+year: 2021
+image: ''
+pub_number: 3
+---

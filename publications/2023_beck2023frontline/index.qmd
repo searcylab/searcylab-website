@@ -1,0 +1,15 @@
+---
+title: 'Frontline data science: Lessons learned from a pandemic'
+date: '2023-01-01'
+author: [Emily A Beck, Hannah Tavalire, Jake Searcy]
+publication: Harvard Data Science Review, **2** (2023).
+categories: [health]
+url_source: 'https://hdsr.mitpress.mit.edu/pub/59k7dz80'
+url_preprint: ''
+journ: Harvard Data Science Review
+issue: 2
+page: ''
+year: 2023
+image: ''
+pub_number: 9
+---

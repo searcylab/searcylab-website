@@ -1,0 +1,15 @@
+---
+title: 'Attendance of Underserved Populations at Field-Based Health Services Events: Application of Quasi-Experimental Methods that Accommodate the COVID-19 Pandemic'
+date: '2025-01-01'
+author: [Leslie D Leve, David S DeGarmo, Jake Searcy, Elizabeth L Budd, Jorge I Ramı́rez Garc\á, Anne Marie Mauricio, William A Cresko]
+publication: Prevention Science, _1-11_ (2025).
+categories: [health,justice]
+url_source: 'https://link.springer.com/10.1007/s11121-025-01769-z'
+url_preprint: ''
+journ: Prevention Science
+issue: null
+page: "1-11"
+year: 2025
+image: ''
+pub_number: 15
+---

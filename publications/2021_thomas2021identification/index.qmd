@@ -1,0 +1,15 @@
+---
+title: Identification of low-frequency earthquakes on the San Andreas Fault with deep learning
+date: '2021-01-01'
+author: [Amanda M Thomas, Asaf Inbal, Jake Searcy, David R Shelly, Roland Bürgmann]
+publication: Geophysical Research Letters, **13**, _e2021GL093157_ (2021).
+categories: [environment]
+url_source: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093157'
+url_preprint: ''
+journ: Geophysical Research Letters
+issue: 13
+page: "e2021GL093157"
+year: 2021
+image: ''
+pub_number: 4
+---

@@ -1,0 +1,15 @@
+---
+title: "Interested in my High Energy Physics Work: See My Google Scholar Page"
+date: '2015-01-01'
+author: [Jake Searcy]
+publication: Atlas Collaboration
+categories: []
+url_source: 'https://scholar.google.com/citations?user=Bgzrdc8AAAAJ&hl=en'
+url_preprint: ''
+journ: Various
+issue: null
+page: ''
+year: Various
+image: ''
+pub_number: 1
+---

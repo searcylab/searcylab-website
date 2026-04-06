@@ -1,0 +1,15 @@
+---
+title: How useful are tax disclosures in predicting effective tax rates? A machine learning approach
+date: '2023-01-01'
+author: [David A Guenther, Kyle Peterson, Jake Searcy, Brian M Williams]
+publication: The Accounting Review, **5**, _297-322_ (2023).
+categories: [justice]
+url_source: 'https://publications.aaahq.org/accounting-review/article/98/5/297/10957/How-Useful-Are-Tax-Disclosures-in-Predicting'
+url_preprint: ''
+journ: The Accounting Review
+issue: 5
+page: "297-322"
+year: 2023
+image: ''
+pub_number: 10
+---

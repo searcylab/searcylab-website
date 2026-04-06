@@ -1,0 +1,37 @@
+---
+title: AI + Health
+alias: &ALIAS health
+image: AIpHealth.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../publications/**/*.qmd"
+    - "!../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+::: {.research-topic-intro}
+:::{.research-topic-lead}
+![](AIpHealth.png)
+:::
+
+We apply AI and computational tools to improve health. Our research involves analysis of complex biomedical and health-related data, with the goal of making health systems more effective, more personalized, and more equitable.
+:::
+
+## What We Are Working On Now:
+- Integrating multi-modal data for cancer diagnosis
+- MIL+Histopathology for progression prediction
+- Data science to enhance athletic performance and monitoring
+
+
+## Related Publications
+
+
+:::{#pubs}
+:::

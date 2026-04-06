@@ -1,0 +1,60 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!publications/_template/"
+    - "!people/_template/"
+
+
+website:
+  title: "Searcy Lab"
+  site-url: ""
+  repo-url: ""
+  favicon: images/favicon.drawio.png
+  google-analytics: "UA-177339812-1"
+  twitter-card: true
+  #back-to-top-navigation: true
+  page-navigation: false
+  search: true
+  page-footer: 
+    background: "#F6F5F3"
+    center: Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) 
+    right:
+      - icon: github
+        href: "" 
+  
+  navbar:
+    search: true
+    title: false
+    logo: images/logo.drawio.png
+    background: "#F6F5F3"
+    logo-alt: "Searcy Lab"
+    left:
+      - href: people/index.qmd
+        text: people
+      - href: research/index.qmd
+      - href: publications/index.qmd
+      # Codes — uncomment to show in navbar again
+      # - href: codes/index.qmd
+      #   text: Codes
+      # News — uncomment to show in navbar again
+      # - href: news/index.qmd
+      - href: contact.qmd
+        text: Contact
+
+
+format:
+  html:
+    theme: 
+      - styles/custom.scss
+      - yeti
+    mainfont: Nunito Sans
+    toc: true
+    link-external-newwindow: true
+    date-format: "MMM YYYY"
+    smooth-scroll: true
+    resources:
+      - images
+
+
+

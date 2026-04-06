@@ -1,0 +1,35 @@
+---
+title: AI + Justice
+alias: &ALIAS justice
+image: AIpJustice.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../publications/**/*.qmd"
+    - "!../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+::: {.research-topic-intro}
+:::{.research-topic-lead}
+![](AIpJustice.png)
+:::
+
+We study how AI and data science can be used to improve fairness, access, and accountability in the systems that shape everyday life. Our research emphasizes themes such as equitable access, resource allocation, participation, and the evaluation of institutional decision-making. The broader goal is to design tools and evidence that help partners reduce barriers, distribute opportunities and services more justly, and make policy and practice more equitable.
+:::
+
+## What We Are Working On Now:
+
+- Supporting decision-making in parole hearings with computational tools.
+
+## Related Publications
+
+
+:::{#pubs}
+:::

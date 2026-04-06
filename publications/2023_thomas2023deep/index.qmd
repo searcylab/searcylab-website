@@ -1,0 +1,15 @@
+---
+title: Deep learning for denoising high-rate global navigation satellite system data
+date: '2023-01-01'
+author: [Amanda Thomas, Diego Melgar, Sydney N Dybing, Jake Searcy]
+publication: Seismica, **1** (2023).
+categories: [environment]
+url_source: 'https://seismica.library.mcgill.ca/article/view/240'
+url_preprint: ''
+journ: Seismica
+issue: 1
+page: ''
+year: 2023
+image: ''
+pub_number: 11
+---

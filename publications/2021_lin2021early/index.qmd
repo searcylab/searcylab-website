@@ -1,0 +1,15 @@
+---
+title: Early warning for great earthquakes from characterization of crustal deformation patterns with deep learning
+date: '2021-01-01'
+author: [J-T Lin, Diego Melgar, Amanda M Thomas, Jake Searcy]
+publication: 'Journal of Geophysical Research: Solid Earth, **10**, _e2021JB022703_ (2021).'
+categories: [environment]
+url_source: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JB022703'
+url_preprint: ''
+journ: 'Journal of Geophysical Research: Solid Earth'
+issue: 10
+page: "e2021JB022703"
+year: 2021
+image: ''
+pub_number: 2
+---

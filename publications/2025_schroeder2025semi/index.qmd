@@ -1,0 +1,15 @@
+---
+title: A semi-automated pipeline for morphological analysis of myonuclei along single muscle fibers
+date: '2025-01-01'
+author: [Esben T Schroeder, Helia G Megowan, Madeline Luu, Adam Shuaib, Adam C Fries, Jake Searcy, Hans C Dreyer]
+publication: bioRxiv, _2025-12_ (2025).
+categories: [health]
+url_source: ''
+url_preprint: 'https://biorxiv.org/lookup/doi/10.64898/2025.12.15.694446'
+journ: bioRxiv
+issue: null
+page: "2025-12"
+year: 2025
+image: ''
+pub_number: 19
+---

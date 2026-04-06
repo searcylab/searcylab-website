@@ -1,0 +1,15 @@
+---
+title: Uncertainty-Aware Carbon Flux Estimation from Multispectral Landsat Imagery Using Mixture Density Networks
+date: '2025-01-01'
+author: [Anish Dulal, Jake Searcy]
+publication: Iclr 2025 workshop on tackling climate change with machine learning. Retrieved from https://www. climatechange. ai/papers/iclr2025/15 (2025).
+categories: [environment]
+url_source: ''
+url_preprint: 'https://www.climatechange.ai/papers/iclr2025/15'
+journ: Iclr 2025 workshop on tackling climate change with machine learning. Retrieved from https://www. climatechange. ai/papers/iclr2025/15
+issue: null
+page: ''
+year: 2025
+image: ''
+pub_number: 16
+---

@@ -1,0 +1,53 @@
+---
+title: &TITLE Name
+last: 
+first: 
+people_group: "researcher | gradstudent | undergraduate | alumni"
+email: 
+education:
+  - deg | inst  <br> 
+subtitle: "Undergraduate Research Assistant, dept | Graduate Student, dept "
+description: ""
+image: avatar.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, image, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.png
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:email@example.org
+---
+
+<hr>
+
+
+:::{#about}
+
+
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::

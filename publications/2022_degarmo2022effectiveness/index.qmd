@@ -1,0 +1,15 @@
+---
+title: 'Effectiveness of a COVID-19 testing outreach intervention for Latinx communities: a cluster randomized trial'
+date: '2022-01-01'
+author: [David S DeGarmo, Stephanie De Anda, Camille C Cioffi, Hannah F Tavalire, Jake Searcy, Elizabeth L Budd, Ellen Hawley McWhirter, Anne Marie Mauricio, Sven Halvorson, Emily A Beck, others]
+publication: JAMA Network Open, **6**, _e2216796_ (2022).
+categories: [health,justice]
+url_source: 'https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793483'
+url_preprint: ''
+journ: JAMA Network Open
+issue: 6
+page: "e2216796"
+year: 2022
+image: ''
+pub_number: 6
+---

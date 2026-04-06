@@ -1,0 +1,15 @@
+---
+title: Workflow Analysis To Understand Ease of Preparation and Importation of 3D Exemplar Head Scan Data to 3D Modeling Software Programs for N95 Mask Sizing and Fit
+date: '2022-01-01'
+author: [Susan L Sokolowski, Yu Zou, Jake Searcy]
+publication: International Textile and Apparel Association Annual Conference Proceedings, **1** (2022).
+categories: [health]
+url_source: 'https://www.iastatedigitalpress.com/itaa/article/id/13487/'
+url_preprint: ''
+journ: International Textile and Apparel Association Annual Conference Proceedings
+issue: 1
+page: ''
+year: 2022
+image: ''
+pub_number: 7
+---

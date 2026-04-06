@@ -1,0 +1,108 @@
+---
+title: "Meet the Group"
+listing:
+  - id: pi
+    include: 
+      people_group: "pi"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: researcher
+    include: 
+      people_group: "researcher"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+  # - id: undergraduate
+  #   include:
+  #     people_group: "undergraduate"
+  #   exclude:
+  #     external: true
+  #   template: ../_ejs/people-box.ejs
+  #   sort: last
+  #   type: grid
+  #   fields: [title, subtitle, image, education]
+  - id: gradstudent
+    include: 
+      people_group: "gradstudent"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: post-bac
+    include: 
+      people_group: "post-bac"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: past-members
+    include: 
+      people_group: "alumni"
+    exclude:
+      external: true
+    template: ../_ejs/alumni-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, education, altsubtitle, alteducation]
+page-layout: full
+---
+
+
+## Principal Investigator
+
+
+::: {#pi}
+:::
+
+
+:::{.sand-background}
+## Research Scientists
+
+
+
+::: {#researcher}
+:::
+
+:::
+
+<!-- ## Undergraduate Research Assistants
+
+::: {#undergraduate}
+::: -->
+
+:::{.sand-background}
+## Graduate Students
+
+
+
+::: {#gradstudent}
+:::
+
+:::
+
+<!-- ## Post Baccalaureate Researchers
+
+::: {#post-bac}
+::: -->
+
+:::{.sand-background}
+## Past Members
+
+
+
+::: {#past-members}
+:::
+
+:::
+
+

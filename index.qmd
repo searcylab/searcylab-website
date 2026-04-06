@@ -1,0 +1,33 @@
+---
+# title: 'Welcome to the Searcy Lab: <span style="color:#757883"> AI in application</span>'
+# subtitle: "AI in application"
+page-layout: full
+---
+<div class="gradient-text">
+
+<div class="welcome-headline">
+Welcome to the Searcy Lab<br>
+</div>
+<div class="welcome-subheadline">
+AI in application
+</div>
+</div>
+
+::::{.cmm-background}
+::: {.content-container}
+::: {.welcome }
+
+
+::: grid
+::: {.g-col-12 .g-col-lg-4 .welcome-text .sand-background style="padding: 15px;"}
+
+We're data scientists who build and use AI to benefit society. We apply AI and other computational tools to problems in health, the environment, and social justice, and we work closely with partners who want to make a difference. We're always open to new partners.
+
+:::
+
+
+
+:::
+:::
+::::
+

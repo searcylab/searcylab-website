@@ -1,0 +1,8 @@
+---
+title: News
+listing: 
+  type: default
+  sort: "date desc"
+  fields: [date, title, description]
+page-layout: full
+---

@@ -1,0 +1,35 @@
+---
+title: AI + Environment
+alias: &ALIAS environment
+image: AIpEnvironment.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../publications/**/*.qmd"
+    - "!../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+::: {.research-topic-intro}
+:::{.research-topic-lead}
+![](AIpEnvironment.png)
+:::
+
+We develop AI and other computational methods to better observe, predict, and respond to environmental systems and hazards. We focus on developing deep learning models for environmental sensing across complex natural systems.
+:::
+
+## What We Are Working On Now:
+- Uncertainty and predictions for upscaling carbon flux estimates
+- Upscaling Eddy-Covariance Tower measurements at high spatial resolution
+
+## Related Publications
+
+
+:::{#pubs}
+:::

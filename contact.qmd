@@ -1,0 +1,23 @@
+---
+title: "Jake Searcy"
+about: 
+  id: contact
+  template: solana
+  image-shape: round
+  image: people/searcy_jake/avatar.jpg
+# page-layout: full
+---
+
+
+
+:::{#contact}
+
+#### {{< fa envelope >}} &nbsp; jsearcy@uoregon.edu
+
+
+#### Department of Data Science, Pacific Hall 203b, 1202 University of Oregon, Eugene OR 9403
+
+:::
+
+
+<br>
