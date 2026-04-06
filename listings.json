@@ -1,0 +1,144 @@
+[
+  {
+    "listing": "/research/justice/index.html",
+    "items": [
+      "/publications/2025_leve2025attendance/index.html",
+      "/publications/2023_guenther2023useful/index.html",
+      "/publications/2023_searcy2023reaching/index.html",
+      "/publications/2022_degarmo2022effectiveness/index.html"
+    ]
+  },
+  {
+    "listing": "/research/health/index.html",
+    "items": [
+      "/publications/2025_schroeder2025semi/index.html",
+      "/publications/2025_sokolowski2025grading/index.html",
+      "/publications/2025_leve2025attendance/index.html",
+      "/publications/2023_beck2023frontline/index.html",
+      "/publications/2023_searcy2023reaching/index.html",
+      "/publications/2022_sokolowski2022workflow/index.html",
+      "/publications/2022_degarmo2022effectiveness/index.html",
+      "/publications/2021_searcy2021towards/index.html"
+    ]
+  },
+  {
+    "listing": "/people/swagel_eli/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/naughton_jack/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/elroy_or/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/dickinson_olivia/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/coulter_kaden/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/baruwa_ahmed/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/diaz_monarrez_isis/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/dulal_anish/index.html",
+    "items": [
+      "/publications/2025_sokolowski2025grading/index.html",
+      "/publications/2025_searcy2025footprint/index.html",
+      "/publications/2025_dulal2025uncertainty/index.html"
+    ]
+  },
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/searcy_jake/index.html",
+      "/people/dulal_anish/index.html",
+      "/people/coulter_kaden/index.html",
+      "/people/elroy_or/index.html",
+      "/people/baruwa_ahmed/index.html",
+      "/people/diaz_monarrez_isis/index.html",
+      "/people/dickinson_olivia/index.html",
+      "/people/naughton_jack/index.html",
+      "/people/swagel_eli/index.html"
+    ]
+  },
+  {
+    "listing": "/people/searcy_jake/index.html",
+    "items": [
+      "/publications/2025_schroeder2025semi/index.html",
+      "/publications/2025_sokolowski2025grading/index.html",
+      "/publications/2025_searcy2025footprint/index.html",
+      "/publications/2025_dulal2025uncertainty/index.html",
+      "/publications/2025_leve2025attendance/index.html",
+      "/publications/2023_bachelot2023cascadia/index.html",
+      "/publications/2023_lin2023detection/index.html",
+      "/publications/2023_lin2023real/index.html",
+      "/publications/2023_thomas2023deep/index.html",
+      "/publications/2023_guenther2023useful/index.html",
+      "/publications/2023_beck2023frontline/index.html",
+      "/publications/2023_searcy2023reaching/index.html",
+      "/publications/2022_sokolowski2022workflow/index.html",
+      "/publications/2022_degarmo2022effectiveness/index.html",
+      "/publications/2022_zhang2022learning/index.html",
+      "/publications/2021_thomas2021identification/index.html",
+      "/publications/2021_searcy2021towards/index.html",
+      "/publications/2021_lin2021early/index.html",
+      "/publications/old_searcyHEP/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/2025_schroeder2025semi/index.html",
+      "/publications/2025_sokolowski2025grading/index.html",
+      "/publications/2025_searcy2025footprint/index.html",
+      "/publications/2025_dulal2025uncertainty/index.html",
+      "/publications/2025_leve2025attendance/index.html",
+      "/publications/2023_bachelot2023cascadia/index.html",
+      "/publications/2023_lin2023detection/index.html",
+      "/publications/2023_lin2023real/index.html",
+      "/publications/2023_thomas2023deep/index.html",
+      "/publications/2023_guenther2023useful/index.html",
+      "/publications/2023_beck2023frontline/index.html",
+      "/publications/2023_searcy2023reaching/index.html",
+      "/publications/2022_sokolowski2022workflow/index.html",
+      "/publications/2022_degarmo2022effectiveness/index.html",
+      "/publications/2022_zhang2022learning/index.html",
+      "/publications/2021_thomas2021identification/index.html",
+      "/publications/2021_searcy2021towards/index.html",
+      "/publications/2021_lin2021early/index.html",
+      "/publications/old_searcyHEP/index.html"
+    ]
+  },
+  {
+    "listing": "/research/environment/index.html",
+    "items": [
+      "/publications/2025_searcy2025footprint/index.html",
+      "/publications/2025_dulal2025uncertainty/index.html",
+      "/publications/2023_bachelot2023cascadia/index.html",
+      "/publications/2023_lin2023detection/index.html",
+      "/publications/2023_lin2023real/index.html",
+      "/publications/2023_thomas2023deep/index.html",
+      "/publications/2022_zhang2022learning/index.html",
+      "/publications/2021_thomas2021identification/index.html",
+      "/publications/2021_lin2021early/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/environment/index.html",
+      "/research/health/index.html",
+      "/research/justice/index.html"
+    ]
+  }
+]
