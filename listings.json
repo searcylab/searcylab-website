@@ -2,7 +2,7 @@
   {
     "listing": "/research/justice/index.html",
     "items": [
-      "/publications/2025_leve2025attendance/index.html",
+      "/publications/2026_leve2026attendance/index.html",
       "/publications/2023_guenther2023useful/index.html",
       "/publications/2023_searcy2023reaching/index.html",
       "/publications/2022_degarmo2022effectiveness/index.html"
@@ -11,9 +11,10 @@
   {
     "listing": "/research/health/index.html",
     "items": [
-      "/publications/2025_schroeder2025semi/index.html",
+      "/publications/2026_megowan2026semi/index.html",
+      "/publications/2026_schroeder2026semi/index.html",
       "/publications/2025_sokolowski2025grading/index.html",
-      "/publications/2025_leve2025attendance/index.html",
+      "/publications/2026_leve2026attendance/index.html",
       "/publications/2023_beck2023frontline/index.html",
       "/publications/2023_searcy2023reaching/index.html",
       "/publications/2022_sokolowski2022workflow/index.html",
@@ -84,11 +85,13 @@
   {
     "listing": "/people/searcy_jake/index.html",
     "items": [
-      "/publications/2025_schroeder2025semi/index.html",
+      "/publications/2026_mathers2026fungal/index.html",
+      "/publications/2026_megowan2026semi/index.html",
+      "/publications/2026_schroeder2026semi/index.html",
       "/publications/2025_sokolowski2025grading/index.html",
       "/publications/2025_searcy2025footprint/index.html",
       "/publications/2025_dulal2025uncertainty/index.html",
-      "/publications/2025_leve2025attendance/index.html",
+      "/publications/2026_leve2026attendance/index.html",
       "/publications/2023_bachelot2023cascadia/index.html",
       "/publications/2023_lin2023detection/index.html",
       "/publications/2023_lin2023real/index.html",
@@ -108,11 +111,13 @@
   {
     "listing": "/publications/index.html",
     "items": [
-      "/publications/2025_schroeder2025semi/index.html",
+      "/publications/2026_mathers2026fungal/index.html",
+      "/publications/2026_megowan2026semi/index.html",
+      "/publications/2026_schroeder2026semi/index.html",
       "/publications/2025_sokolowski2025grading/index.html",
       "/publications/2025_searcy2025footprint/index.html",
       "/publications/2025_dulal2025uncertainty/index.html",
-      "/publications/2025_leve2025attendance/index.html",
+      "/publications/2026_leve2026attendance/index.html",
       "/publications/2023_bachelot2023cascadia/index.html",
       "/publications/2023_lin2023detection/index.html",
       "/publications/2023_lin2023real/index.html",
@@ -132,6 +137,7 @@
   {
     "listing": "/research/environment/index.html",
     "items": [
+      "/publications/2026_mathers2026fungal/index.html",
       "/publications/2025_searcy2025footprint/index.html",
       "/publications/2025_dulal2025uncertainty/index.html",
       "/publications/2023_bachelot2023cascadia/index.html",
