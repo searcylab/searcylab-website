@@ -7,7 +7,7 @@
             <!-- <a href="<%- item.path %>"> -->
 
                 <p>
-                    <% if (item.image) { %>
+                    <% if (item.image && /\.(png|jpe?g|gif|svg|webp)$/i.test(item.image)) { %>
                     <img alt="<%= item.title %>" src="<%= item.image %>" class="thumbnail-image listing-image">
                     <% } %>
 

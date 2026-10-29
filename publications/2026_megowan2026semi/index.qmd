@@ -1,0 +1,15 @@
+---
+title: 'A semi-automated pipeline for quantitation of Pax7+, myonuclei, and cross-sectional area by fiber type'
+date: '2026-01-01'
+author: [Helia G Megowan, Madeline Luu, Adam Shuaib, Kaitlyn B Augienello, Adam C Fries, Jake Searcy, Hans C Dreyer]
+publication: Physiological Reports, **18**, _e71097_ (2026).
+categories: [health]
+url_source: ''
+url_preprint: ''
+journ: Physiological Reports
+issue: 18
+page: "e71097"
+year: 2026
+image: ''
+pub_number: 20
+---

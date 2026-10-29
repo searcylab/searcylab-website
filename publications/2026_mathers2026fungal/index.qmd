@@ -1,0 +1,15 @@
+---
+title: 'Fungal:bacterial biomass balance links environmental gradients to soil respiration across a forest-to-marsh transition'
+date: '2026-01-01'
+author: [Courtney E Mathers, Lillian R Aoki, Brendan JM Bohannan, Josh Roering, Jake Searcy, Lucas CR Silva]
+publication: bioRxiv (2026).
+categories: [environment]
+url_source: ''
+url_preprint: ''
+journ: bioRxiv
+issue: null
+page: ''
+year: 2026
+image: ''
+pub_number: 21
+---
