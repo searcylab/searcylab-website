@@ -30,23 +30,7 @@
     "items": []
   },
   {
-    "listing": "/people/elroy_or/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/dickinson_olivia/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/coulter_kaden/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/baruwa_ahmed/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/diaz_monarrez_isis/index.html",
+    "listing": "/people/imhoff_nicole/index.html",
     "items": []
   },
   {
@@ -58,10 +42,36 @@
     ]
   },
   {
+    "listing": "/people/diaz_monarrez_isis/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/conti_matthew/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/baruwa_ahmed/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/coulter_kaden/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/dickinson_olivia/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/elroy_or/index.html",
+    "items": []
+  },
+  {
     "listing": "/people/index.html",
     "items": [
       "/people/searcy_jake/index.html",
       "/people/dulal_anish/index.html",
+      "/people/conti_matthew/index.html",
+      "/people/imhoff_nicole/index.html",
       "/people/coulter_kaden/index.html",
       "/people/elroy_or/index.html",
       "/people/baruwa_ahmed/index.html",
